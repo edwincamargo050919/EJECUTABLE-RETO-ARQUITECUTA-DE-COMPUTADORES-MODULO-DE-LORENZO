@@ -1,0 +1,23 @@
+1 el archivo Arquitectura2PFN versión de Matlab 2025
+--- si la transferencia no funciona en el 2017 y 2025 
+1 abrir archivo TranfESPaLorenzo es la programación de la raspberry pi pico r2040 
+2 verificar los driver con los siguientes pasos 
+	A. https://www.waveshare.com/wiki/RP2040-Zero 
+	 - Abre arduino IDE
+	 - Ingresamos a Archivos
+	 - Preferencias
+	 - Donde dice URLS ADIONALES DE GESTOR DE PLACAS 
+	 - Pega lo siguiente "https://github.com/earlephilhower/arduino-pico/releases/download/4.5.2/package_rp2040_index.json" 
+	 - Aceptar 
+	B. Ahora presiona en el icono de gestor de placas y escribiré "Pico"
+	  - Busca la que dice Rasberry PI PICO / RP2040/ RP2350 de Earle F. Philhower,III
+	  - la instala 
+
+	C en la parte superior busca el puerto de comunicación 
+	 - busca la placa como "Rasberry pi pico"
+	 - puerto "COM # "
+	 - Aceptar
+
+2 el archivo ArquitecturaFPFN versión de Matlab 2017
+
+ 
